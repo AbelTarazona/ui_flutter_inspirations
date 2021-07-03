@@ -1,4 +1,4 @@
-# inspirations
+# UI Inspirations :bulb:
 
 Replicating UIs
 
